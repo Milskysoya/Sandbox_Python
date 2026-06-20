@@ -33,3 +33,4 @@ Repository untuk mendokumentasikan proses belajar Python.
 ### Daftar Pustaka
 1. https://mimo.org/glossary/python/variables
 2. https://youtu.be/ix9cRaBkVe0?si=WOCGwULTF4CrNNwb
+3. https://www.dicoding.com/blog/flowchart-adalah/

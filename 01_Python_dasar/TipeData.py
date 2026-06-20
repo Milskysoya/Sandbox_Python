@@ -11,3 +11,10 @@ jarak = 6.8
 
 #boolean
 seorang_mahasiswa = True
+
+print(type(Angkatan))
+print(type(Nama))
+
+Angkatan = float(Angkatan)
+
+print(type(Angkatan))
