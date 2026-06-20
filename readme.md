@@ -29,3 +29,7 @@ Repository untuk mendokumentasikan proses belajar Python.
 ### Machine Learning
 - [ ] Regression
 - [ ] Classification
+
+### Daftar Pustaka
+1. https://mimo.org/glossary/python/variables
+2. https://youtu.be/ix9cRaBkVe0?si=WOCGwULTF4CrNNwb
