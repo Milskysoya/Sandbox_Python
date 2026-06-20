@@ -16,5 +16,7 @@ print(type(Angkatan))
 print(type(Nama))
 
 Angkatan = float(Angkatan)
+Angkatan = str(Angkatan)
 
 print(type(Angkatan))
+print(Angkatan)
