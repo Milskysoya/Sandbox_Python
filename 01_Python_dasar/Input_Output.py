@@ -1,16 +1,11 @@
-saya_vectra = True
+Nama = input("masukkan nama anda:\n")
+print(f"hallo {Nama}")
 
-if saya_vectra:
-    print("gokilll")
-else:
-    print("kurennggg")
+nama = "udin"
+umur = 20
+Kota = "Malang"
+print(nama, umur, Kota)
 
-#study case
-# kating pengen kuorum dalam 150 orang, dan tidak boleh terlambat untuk angkatan vectra
+Y, K = input("masukkan 2 kota pilihan anda\n").split()
 
-Jumlah_Vectra =  int(input("berapa vectra yang hadir saat ini? \n"))
-
-if Jumlah_Vectra >= 150:
-    print("bagus, lanjutkan vectra!!!!")
-else:
-    print("bubarlah kalian!!!")
+print(f"pilihan kota anda adalah {Y} dan {K}")

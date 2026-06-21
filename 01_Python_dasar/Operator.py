@@ -11,8 +11,8 @@ import math
 # uang_saku %= 3
 
 hasil = -4.6
-# hasil =  round(hasil)
-# hasil =  abs(hasil)
+# hasil = round(hasil)
+# hasil =  bs(hasil)
 # hasil = pow(2,4)
 
 

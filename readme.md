@@ -5,10 +5,10 @@ Repository untuk mendokumentasikan proses belajar Python.
 ## Progress
 
 ### Python Dasar
-- [ ] Variabel
-- [ ] Tipe Data
-- [ ] Input Output
-- [ ] Percabangan
+- [x] Variabel
+- [x] Tipe Data
+- [x] Input Output
+- [x] Percabangan
 - [ ] Looping
 
 ### Function
@@ -35,3 +35,5 @@ Repository untuk mendokumentasikan proses belajar Python.
 2. https://youtu.be/ix9cRaBkVe0?si=WOCGwULTF4CrNNwb
 3. https://www.dicoding.com/blog/flowchart-adalah/
 4. https://dqlab.id/matematika-python--cara-logaritma-tanpa-kalkulator
+5. https://www.geeksforgeeks.org/python/input-and-output-in-python/
+6. https://www.geeksforgeeks.org/python/python-operators/
