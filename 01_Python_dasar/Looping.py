@@ -1,7 +1,7 @@
 #for loop
-n = 15 
-for i in range (0, n):
-    print(i)
+#n = 15 
+#for i in range (0, n):
+#    print(i)
 
 
 # List_Barang = ["esp32", "arduino", "rasberry" ]
@@ -18,8 +18,3 @@ for i in range (0, n):
 
 #  Umur Balita
 
-orang = input("masukkan umur orang ini:\n")
-
-if orang <= 0:
-    print("lah ini mah belum lahir _-")
-elif orang > 0 and <= 5:
