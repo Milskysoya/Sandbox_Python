@@ -4,17 +4,13 @@ def Datadiri():
     print("Kuliah: Universitas Brawijaya")
     print("Indonesia")
 
+def Nama_asal(nama, asal):
+    Nama_asal = print(f"hallo {nama}, kamu dari {asal}")
+    return Nama_asal
+
 Data_diri = Datadiri()
 
+
 Data_diri
-
-#1 Positional arguments
-a = 4
-t = 6
-def Segitiga(a, t):
-    x = a * t / 2  
-    return x
-
-print(Segitiga(a,t))
-
+Nama_asal("velasco", "Tangerang")
 

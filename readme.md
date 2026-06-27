@@ -12,9 +12,9 @@ Repository untuk mendokumentasikan proses belajar Python.
 - [x] Looping
 
 ### Function
-- [ ] Function Dasar
-- [ ] Parameter
-- [ ] Return Value
+- [x] Function Dasar
+- [x] Parameter
+- [x] Return Value
 
 ### OOP
 - [ ] Class
