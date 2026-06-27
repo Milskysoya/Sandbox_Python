@@ -12,5 +12,5 @@ Data_diri = Datadiri()
 
 
 Data_diri
-Nama_asal("velasco", "Tangerang")
+
 

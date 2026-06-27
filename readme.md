@@ -45,3 +45,4 @@ Repository untuk mendokumentasikan proses belajar Python.
 12. https://www.youtube.com/watch?v=XO9qUkBQRZk
 13. https://www.revou.co/panduan-teknis/python-function
 14. https://www.duniailkom.com/latihan-kode-program-python-membuat-pola-segitiga-angka/
+15. https://www.youtube.com/watch?v=WYSLIMQnuR0
